@@ -9,9 +9,21 @@ This chart below shows how useless I am.
 Languages, frameworks and technologies I'm currently using:
 
   html/css/javascript
+  
+  
   bootstrap/bulma
+  
+  
   react/react native
+  
+  
   php/node.js
+  
+  
   mysql/mongodb
+  
+  
   docker/vagrant
+  
+  
 I'm currently learning C# and trying to start with cybersecurity. 
