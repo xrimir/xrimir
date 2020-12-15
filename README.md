@@ -7,7 +7,7 @@ This chart below shows how useless I am.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xrimir&theme=prussian&show_icons=true)
 
 ### *Skils:
-  *html
+  *html :joy:
   *css
   *javascript
   *react
