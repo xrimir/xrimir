@@ -10,9 +10,7 @@ This chart below shows how useless I am.
 
 ---
 
-Languages, frameworks and technologies I'm currently using: 
-
-
+Languages, frameworks and technologies I'm currently using: <br/>
   <img alt="html" width="29px" src="https://www.shareicon.net/data/128x128/2016/06/25/618461_html_256x256.png"/>
   <img alt="css" width="27px" src="https://www.shareicon.net/data/128x128/2015/09/08/97876_css_512x512.png"/>
   <img alt="javascript" width="29px" src="https://www.shareicon.net/data/128x128/2016/07/06/106573_software_512x512.png"/>
