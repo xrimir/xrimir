@@ -8,4 +8,10 @@ This chart below shows how useless I am.
 
 Languages | Databases
 ------------ | -----------
-HTML         | mysql
+HTML :joy:   | mysql
+CSS  :joy:   | mongodb
+Javascript|
+React|
+React Native|
+Node.js|
+Php
