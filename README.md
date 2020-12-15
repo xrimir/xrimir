@@ -10,7 +10,8 @@ This chart below shows how useless I am.
 
 ---
 
-Languages, frameworks and technologies I'm currently using:
+Languages, frameworks and technologies I'm currently using: 
+  [<img align="left" alt="python" width="30px" src="https://www.shareicon.net/data/128x128/2016/07/16/634601_python_512x512.png"/>][python]
 
   html/css/javascript
   
