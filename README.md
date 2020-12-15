@@ -6,12 +6,5 @@ This chart below shows how useless I am.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xrimir&theme=prussian&show_icons=true)
 
-Languages | Databases
------------- | -----------
-HTML :joy:   | mysql
-CSS  :joy:   | mongodb
-Javascript|
-React|
-React Native|
-Node.js|
-Php
+
+I'm currently learning C# and trying to start with cybersecurity. 
