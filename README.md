@@ -26,4 +26,6 @@ Languages, frameworks and technologies I'm currently using:
   docker/vagrant
   
   
+  python
+  
 I'm currently learning C# and trying to start with cybersecurity. 
