@@ -38,5 +38,6 @@ Currently learning:
 -> C#
 -> C++
 -> Linux Administration
--> Cybersecurity Basics
+-> Cybersecurity
+-> Blockchain
 ```
